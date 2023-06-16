@@ -15,8 +15,10 @@
             <?php
             }
         ?>
-        <a href="logar.php">Logar</a>
+        <a href="login.php">Logar</a>
         <span> / </span>
         <a href="cadastrar.php">Cadastrar</a>
+        <span> / </span>
+        <a href="funcoes/deslogar.php">deslogar</a>
     </body>
 </html>
